@@ -21,5 +21,5 @@ and have hands-on experience in **DevOps workflows** with **Azure DevOps, Docker
 ---
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/faikyucesoy/)  
+- [LinkedIn](https://www.linkedin.com/in/faiky%C3%BCcesoy/) 
 - [GitHub](https://github.com/Faik442)
